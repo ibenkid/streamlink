@@ -13,5 +13,10 @@
 		"githubPullRequests.ignoredPullRequestBranches": [
 			"master"
 		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-azuretools.vscode-docker"
+		]
 	}
 }
