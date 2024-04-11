@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+zany-space-meme-4jr7r6j4q7cqvxx/workspaces/docs"
+		},
+		{
+			"name": "WifiWizard",
+			"uri": "vscode-remote://codespaces+zany-space-meme-4jr7r6j4q7cqvxx/home/codespace/WifiWizard"
+		}
+	],
+	"remoteAuthority": "codespaces+zany-space-meme-4jr7r6j4q7cqvxx",
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"master"
+		]
+	}
+}
